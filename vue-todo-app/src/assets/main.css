@@ -1,0 +1,30 @@
+@import './base.css';
+
+#app {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: 60px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  align-items: center;
+  margin: 0 10px;
+}
+
+button {
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+a {
+  color: #42b983;
+}
