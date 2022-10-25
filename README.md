@@ -3,8 +3,8 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/Sas2k/Todo-App-in-3-Frameworks.svg)](https://github.com/Sas2k/Todo-App-in-3-Frameworks/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Sas2k/Todo-App-in-3-Frameworks.svg)](https://github.com/Sas2k/Todo-App-in-3-Frameworks/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
