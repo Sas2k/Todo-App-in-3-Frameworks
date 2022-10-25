@@ -12,8 +12,7 @@
 ---
 
 <p align="center">
-    The source of the Todo-Apps, I created in my blog post.
-    Post: https://dev.to/sas2k/creating-a-frontend-app-in-3-frameworks-40lo
+    The source of the Todo-Apps from my blog post
     <br> 
 </p>
 
@@ -30,11 +29,13 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+This is the source code of the Todo-Apps, I created in my blog post.
+
+The post can be found here: https://dev.to/sas2k/creating-a-frontend-app-in-3-frameworks-40lo
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#usage) for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
